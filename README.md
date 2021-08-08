@@ -11,8 +11,7 @@
 - 📫 My telegram: @iskan_iskra 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iskan-iskra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iskan_iskra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/iskan_iskra)  
+[<img src='https://img.icons8.com/plasticine/100/ffffff/github.png' alt='github' height='40'>](https://github.com/iskan-iskra)  [<img src='https://img.icons8.com/plasticine/100/ffffff/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/iskan_iskra/)  [<img src='https://img.icons8.com/plasticine/100/ffffff/vk-circled.png' alt='vk' height='40'>](https://vk.com/iskan_iskra)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskan-iskra)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iskan-iskra&show_icons=true)  
